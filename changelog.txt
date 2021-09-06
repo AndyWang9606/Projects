@@ -1,0 +1,11 @@
+Version 1.3:
+- Added missing country codes
+
+Version 1.2:
+- Added an auto-detect feature
+
+Version 1.1:
+- Added a in-app readme and instructions
+
+Version 1.0:
+- Release
