@@ -1,3 +1,6 @@
+Version 1.4:
+- Added capability to display multiple errors within the travel document
+
 Version 1.3:
 - Added missing country codes
 
